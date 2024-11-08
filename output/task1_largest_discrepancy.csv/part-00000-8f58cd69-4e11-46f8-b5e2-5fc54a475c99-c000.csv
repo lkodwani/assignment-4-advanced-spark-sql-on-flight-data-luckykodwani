@@ -1,0 +1,11 @@
+FlightNum,CarrierName,discrepancy,rank
+2147,Air France,9000,1
+7040,Air France,8940,2
+2396,Air France,8940,3
+4002,Qantas,8940,4
+1920,Delta Airlines,8940,5
+7080,British Airways,8940,6
+3255,Lufthansa,8880,7
+6980,Delta Airlines,8820,8
+5791,Qantas,8820,9
+9586,Southwest Airlines,8760,10
